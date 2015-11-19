@@ -1,4 +1,4 @@
-package jp.ac.chibafjb.x15g015.kd133;
+package jp.ac.chibafjb.x15g015.kd134;
 
 public class x15g015 {
 
@@ -6,10 +6,11 @@ public class x15g015 {
 		// TODO 自動生成されたメソッド・スタブ
 		int x;
 		int y;
-		x = 5;
-		y = 10;
-		x = x + y;
-		System.out.println("x+y = "+x);
+		x = 10;
+		y = 20;
+		y = x;
+		System.out.println("x = "+x);
+		System.out.println("y = "+y);
 	}
 
 }
